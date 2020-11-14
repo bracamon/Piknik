@@ -35,3 +35,29 @@ This is the wireframe our group created in the planning stages of our project, w
 ## Deployed Link:
 https://shellsea31.github.io/Piknik/
 
+
+#### Contributors
+
+  **Lara Zegart**
+ * Github: 
+ * Gitlab:
+ * LinkedIn:
+ * Email:
+
+  **Alfredo Bracamontes-Ochoa**
+ * Github:
+ * Gitlab: 
+ * LinkedIn:
+ * Email:
+
+  **John Delizp**
+ * Github:
+ * Gitlab: 
+ * LinkedIn: 
+ * Email: 
+
+ **Shelsy Barrera**
+ * Github: Shellsea31
+ * Gitlab: @Shellsea
+ * LinkedIn: Shelsy Barrera
+ * Email: elainesbarrera@gmail.com
