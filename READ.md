@@ -32,6 +32,7 @@ This is the wireframe our group created in the planning stages of our project, w
 <img width="1149" alt="Landing Page" src="https://user-images.githubusercontent.com/71571952/99025301-62650900-251d-11eb-9def-d100d63b079a.png">
 
 
-## Deployed Link:
+## Deployed Link: 
+https://bracamon.github.io/Piknik/
 
 
