@@ -1,4 +1,7 @@
 # Project 1: Piknik App
+
+<img src="https://img.shields.io/badge/LICENSE-mit-green"/>
+
 ### Developed By Function Junction
 
 ## Description:
