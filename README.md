@@ -51,7 +51,7 @@ https://bracamon.github.io/Piknik/
  * Github: bracamon
  * Gitlab: @bracamon
  * LinkedIn: Alfredo Bracamontes
- * Email: bracamonted.ochoa@gmail.com
+ * Email: bracamontes.ochoa@gmail.com
 
   **John Delizo**
  * Github:
