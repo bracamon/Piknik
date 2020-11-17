@@ -1,10 +1,13 @@
 # Project 1: Piknik App
+
+<img src="https://img.shields.io/badge/LICENSE-mit-green"/>
+
 ### Developed By Function Junction
 
 ## Description:
 This app alows the user to map out a piknik plan. The user has several options for food type and type of destination, as well as distance range. 
 
-The code deploys a series of modals, which are lauched by the Piknik button on the landing page. 
+The code deploys a series of modals, which are launched by the Piknik button on the landing page. 
 In the first modal there is a user form in which the user can enter their location and answer a few choice questions about range, food, and destination. 
 In the second modal the user sees a container with 3 cards; the first with starting address, the second two display address, images, and descriptions or information about the chosen locations. 
 The final page will display a map with the user's starting point, food pick-up point, and destination point drawn out. 
@@ -29,10 +32,40 @@ This is the wireframe our group created in the planning stages of our project, w
 <img width="1174" alt="Wireframe" src="https://user-images.githubusercontent.com/71571952/98863524-58f47780-241d-11eb-91b3-2a48ca8122bd.png">
 
 ### This Is Our Landing Page
-<img width="1149" alt="Landing Page" src="https://user-images.githubusercontent.com/71571952/99025301-62650900-251d-11eb-9def-d100d63b079a.png">
+<img width="1324" alt="Screen Shot 2020-11-14 at 7 05 58 AM" src="https://user-images.githubusercontent.com/71571952/99150242-ed422280-2647-11eb-8f38-e357a72de8a7.png">
 
 
+<<<<<<< HEAD:READ.md
 ## Deployed Link: 
 https://bracamon.github.io/Piknik/
+=======
+## Deployed Link:
+https://shellsea31.github.io/Piknik/
 
 
+#### Contributors
+
+  **Lara Zegart**
+ * Github: 
+ * Gitlab:
+ * LinkedIn:
+ * Email:
+
+  **Alfredo Bracamontes-Ochoa**
+ * Github:
+ * Gitlab: 
+ * LinkedIn:
+ * Email:
+>>>>>>> f7863d317950039a1afdf634d87f4fe99d9f80b2:README.md
+
+  **John Delizp**
+ * Github:
+ * Gitlab: 
+ * LinkedIn: 
+ * Email: 
+
+ **Shelsy Barrera**
+ * Github: Shellsea31
+ * Gitlab: @Shellsea
+ * LinkedIn: Shelsy Barrera
+ * Email: elainesbarrera@gmail.com
