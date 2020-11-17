@@ -35,12 +35,8 @@ This is the wireframe our group created in the planning stages of our project, w
 <img width="1324" alt="Screen Shot 2020-11-14 at 7 05 58 AM" src="https://user-images.githubusercontent.com/71571952/99150242-ed422280-2647-11eb-8f38-e357a72de8a7.png">
 
 
-<<<<<<< HEAD:READ.md
-## Deployed Link: 
-https://bracamon.github.io/Piknik/
-=======
 ## Deployed Link:
-https://shellsea31.github.io/Piknik/
+https://bracamon.github.io/Piknik/
 
 
 #### Contributors
@@ -52,13 +48,12 @@ https://shellsea31.github.io/Piknik/
  * Email:
 
   **Alfredo Bracamontes-Ochoa**
- * Github:
- * Gitlab: 
- * LinkedIn:
- * Email:
->>>>>>> f7863d317950039a1afdf634d87f4fe99d9f80b2:README.md
+ * Github: bracamon
+ * Gitlab: @bracamon
+ * LinkedIn: Alfredo Bracamontes
+ * Email: bracamonted.ochoa@gmail.com
 
-  **John Delizp**
+  **John Delizo**
  * Github:
  * Gitlab: 
  * LinkedIn: 
